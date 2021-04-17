@@ -1,1 +1,2 @@
 # sequential-LED-Flasher
+we have implemented sequential LED flasher circuit on a breadboard using 555 timer + 4017 IC and a few other components. The LED's chasing rate can be adjusted using a potentiometer in place of 47K resistor, the output from the 555 timer changes continuously between high and low voltage. Whenever the clock is applied and trigger is simulated externally the shifting and transition of LED blink and flash takes place, this swapping of output is termed as the chaser circuit.
